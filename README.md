@@ -2,7 +2,7 @@
 
 My name is Charley and im currently studying Computer Science at college.
 
-#Languages
+## Languages
  Python
 
 
