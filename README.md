@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Charley and im currently studying Computer Science at college.
+
+#Languages
+ Python
+
+
+
 <!--
 **CJ55421/CJ55421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
