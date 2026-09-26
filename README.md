@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Charley and im currently studying Computer Science at college.
+My name is Charley and im currently studying Computer Science at college and interested coding, problem-solving, and building innovative solutions. 
 
 ## Languages
  Python
